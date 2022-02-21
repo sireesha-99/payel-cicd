@@ -35,7 +35,7 @@
       <muleVersion>4.3.0</muleVersion>
       <username>sirifebuary</username>
       <password>Sivagiri@99</password>
-      <applicationName>cicd-siri65</applicationName>
+      <applicationName>cicd-siri99</applicationName>
       <environment>Sandbox</environment>
       <workers>1</workers>
       <workerType>Micro</workerType>
